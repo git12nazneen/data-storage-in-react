@@ -1,0 +1,11 @@
+.Single-Bottle img{
+    width: 200px;
+    height: 200px;
+}
+.Single-Bottle{
+    margin: 20px;
+    border: green 2px solid;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgb(216, 212, 212);
+}

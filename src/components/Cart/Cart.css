@@ -1,0 +1,9 @@
+.cart-container img{
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+}
+.cart-container{
+    width: 900px;
+    margin: 0 auto;
+}
